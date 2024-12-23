@@ -15721,3 +15721,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 06:52:47.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d382ed98-6efc-49aa-8f71-3d38ceaa4b33 timed out
 [23Dec2024 06:52:47.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sheylike
 [23Dec2024 06:52:47.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[23Dec2024 06:55:06.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sheylike lost connection: Timed out
+[23Dec2024 06:55:06.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike left the game
+[23Dec2024 06:55:06.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sheylike
+[23Dec2024 06:55:18.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tyr_1 lost connection: Disconnected
+[23Dec2024 06:55:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 left the game
+[23Dec2024 06:55:18.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tyr_1
+[23Dec2024 07:01:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Hunt and Gather]
