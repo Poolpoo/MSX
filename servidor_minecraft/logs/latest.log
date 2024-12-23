@@ -15412,3 +15412,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 21:02:20.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
 [23Dec2024 21:02:20.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
 [23Dec2024 21:02:35.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11432ms or 228 ticks behind
+[23Dec2024 21:19:59.543] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[23Dec2024 21:19:59.550] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[23Dec2024 21:24:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Mine Turtle!]
