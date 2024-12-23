@@ -15588,3 +15588,94 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 05:57:32.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 05:57:50.687] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 06:08:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Always on the Grind]
+[23Dec2024 06:39:50.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:40:10.234] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[23Dec2024 06:40:19.697] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/purple_archwood_shrub removed now.
+[23Dec2024 06:40:19.698] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/blighted_balsa_shrub removed now.
+[23Dec2024 06:40:19.700] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/alexscaves/ancient_shrub removed now.
+[23Dec2024 06:40:19.701] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/red_archwood_shrub removed now.
+[23Dec2024 06:40:19.702] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/orange_blossom_shrub removed now.
+[23Dec2024 06:40:19.703] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/swamp_cypress_shrub removed now.
+[23Dec2024 06:40:19.705] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/nether_sakura_shrub removed now.
+[23Dec2024 06:40:19.705] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/tenanea_shrub removed now.
+[23Dec2024 06:40:19.706] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/green_archwood_shrub removed now.
+[23Dec2024 06:40:19.706] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/anchor_tree_shrub removed now.
+[23Dec2024 06:40:19.707] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/ancient_shrub removed now.
+[23Dec2024 06:40:19.709] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/forbidden_arcanus/aurum_shrub removed now.
+[23Dec2024 06:40:19.709] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/red_blossom_shrub removed now.
+[23Dec2024 06:40:19.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/ancient_oak_shrub removed now.
+[23Dec2024 06:40:19.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/rubeus_shrub removed now.
+[23Dec2024 06:40:19.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_elemental/yellow_archwood_shrub removed now.
+[23Dec2024 06:40:19.712] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/blue_archwood_shrub removed now.
+[23Dec2024 06:40:19.712] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/hexerei/witch_hazel_shrub removed now.
+[23Dec2024 06:40:19.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/snifferplus/stone_pine_shrub removed now.
+[23Dec2024 06:40:19.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/blue_blossom_shrub removed now.
+[23Dec2024 06:40:19.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/lavender_blossom_shrub removed now.
+[23Dec2024 06:40:19.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/hexerei/mahogany_shrub removed now.
+[23Dec2024 06:40:19.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/upgrade_aquatic/river_shrub removed now.
+[23Dec2024 06:40:19.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/lucernia_shrub removed now.
+[23Dec2024 06:40:19.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/yellow_blossom_shrub removed now.
+[23Dec2024 06:40:19.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/eidolon/illwood_shrub removed now.
+[23Dec2024 06:40:19.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/dragon_tree_shrub removed now.
+[23Dec2024 06:40:19.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/lacugrove_shrub removed now.
+[23Dec2024 06:40:19.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/pythadendron_shrub removed now.
+[23Dec2024 06:40:19.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/autumnity/yellow_maple_shrub removed now.
+[23Dec2024 06:40:19.719] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/purple_archwood_shrub removed now.
+[23Dec2024 06:40:19.720] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/blighted_balsa_shrub removed now.
+[23Dec2024 06:40:19.721] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/alexscaves/ancient_shrub removed now.
+[23Dec2024 06:40:19.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/red_archwood_shrub removed now.
+[23Dec2024 06:40:19.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/orange_blossom_shrub removed now.
+[23Dec2024 06:40:19.723] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/swamp_cypress_shrub removed now.
+[23Dec2024 06:40:19.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/nether_sakura_shrub removed now.
+[23Dec2024 06:40:19.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/tenanea_shrub removed now.
+[23Dec2024 06:40:19.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/green_archwood_shrub removed now.
+[23Dec2024 06:40:19.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/anchor_tree_shrub removed now.
+[23Dec2024 06:40:19.726] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/ancient_shrub removed now.
+[23Dec2024 06:40:19.728] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/forbidden_arcanus/aurum_shrub removed now.
+[23Dec2024 06:40:19.728] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/red_blossom_shrub removed now.
+[23Dec2024 06:40:19.728] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/biomemakeover/ancient_oak_shrub removed now.
+[23Dec2024 06:40:19.729] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betternether/rubeus_shrub removed now.
+[23Dec2024 06:40:19.729] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_elemental/yellow_archwood_shrub removed now.
+[23Dec2024 06:40:19.730] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/ars_nouveau/blue_archwood_shrub removed now.
+[23Dec2024 06:40:19.730] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/hexerei/witch_hazel_shrub removed now.
+[23Dec2024 06:40:19.731] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/snifferplus/stone_pine_shrub removed now.
+[23Dec2024 06:40:19.731] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/blue_blossom_shrub removed now.
+[23Dec2024 06:40:19.732] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/lavender_blossom_shrub removed now.
+[23Dec2024 06:40:19.732] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/hexerei/mahogany_shrub removed now.
+[23Dec2024 06:40:19.732] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/upgrade_aquatic/river_shrub removed now.
+[23Dec2024 06:40:19.733] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/lucernia_shrub removed now.
+[23Dec2024 06:40:19.733] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/quark/yellow_blossom_shrub removed now.
+[23Dec2024 06:40:19.734] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/eidolon/illwood_shrub removed now.
+[23Dec2024 06:40:19.734] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/dragon_tree_shrub removed now.
+[23Dec2024 06:40:19.734] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/lacugrove_shrub removed now.
+[23Dec2024 06:40:19.734] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/betterend/pythadendron_shrub removed now.
+[23Dec2024 06:40:19.735] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:ru/autumnity/yellow_maple_shrub removed now.
+[23Dec2024 06:40:19.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/172.26.179.8:50981] logged in with entity id 17830 at (-574.7392471573677, 80.8500000178814, 843.8279293313307)
+[23Dec2024 06:40:19.879] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23Dec2024 06:40:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[23Dec2024 06:40:20.011] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:40:20.187] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[23Dec2024 06:40:22.678] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[23Dec2024 06:40:22.679] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[23Dec2024 06:40:22.679] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23Dec2024 06:40:22.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23Dec2024 06:40:22.680] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23Dec2024 06:40:22.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23Dec2024 06:40:22.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23Dec2024 06:40:22.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23Dec2024 06:40:22.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23Dec2024 06:40:22.681] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23Dec2024 06:40:22.682] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23Dec2024 06:40:22.684] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23Dec2024 06:40:22.685] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23Dec2024 06:40:22.685] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[23Dec2024 06:40:32.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[23Dec2024 06:40:33.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[23Dec2024 06:40:33.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
+[23Dec2024 06:42:48.637] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
