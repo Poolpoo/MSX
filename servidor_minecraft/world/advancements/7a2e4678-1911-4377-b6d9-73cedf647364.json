@@ -406,6 +406,7 @@
       "minecraft:spider": "2024-12-15 09:00:48 +0000",
       "minecraft:creeper": "2024-12-15 23:20:23 +0000",
       "minecraft:slime": "2024-12-18 22:04:51 +0000",
+      "quark:forgotten": "2024-12-23 21:41:52 +0000",
       "minecraft:phantom": "2024-12-22 23:30:43 +0000",
       "minecraft:witch": "2024-12-15 23:32:06 +0000",
       "minecraft:cave_spider": "2024-12-15 10:54:07 +0000",
@@ -1932,9 +1933,27 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-23 21:42:28 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/obsidian": {
+    "criteria": {
+      "has_item": "2024-12-23 21:54:59 +0000"
+    },
+    "done": true
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-12-23 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 21:54:59 +0000"
     },
     "done": true
   },

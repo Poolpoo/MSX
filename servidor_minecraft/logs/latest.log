@@ -15419,3 +15419,5 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 21:37:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool was slain by Cave Centipede
 [23Dec2024 21:38:00.602] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [23Dec2024 21:42:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [This Belongs in a Museum]
+[23Dec2024 21:49:25.064] [Server thread/INFO] [EMI/]: [EMI] Myth_Pool deleted 5 cobbled_deepslate
+[23Dec2024 21:54:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Ice Bucket Challenge]
