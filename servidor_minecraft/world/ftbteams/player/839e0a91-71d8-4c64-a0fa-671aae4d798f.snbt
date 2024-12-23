@@ -1,0 +1,17 @@
+{
+	id: "839e0a91-71d8-4c64-a0fa-671aae4d798f"
+	type: "player"
+	player_name: "Tyr_1"
+	ranks: {
+		839e0a91-71d8-4c64-a0fa-671aae4d798f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tyr_1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DF59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

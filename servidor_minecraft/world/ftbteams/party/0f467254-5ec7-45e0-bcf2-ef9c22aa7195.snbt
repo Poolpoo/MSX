@@ -1,0 +1,27 @@
+{
+	id: "0f467254-5ec7-45e0-bcf2-ef9c22aa7195"
+	type: "party"
+	owner: "a619f863-40aa-494d-91c5-679bb05d5372"
+	ranks: {
+		7a2e4678-1911-4377-b6d9-73cedf647364: "ally"
+		a619f863-40aa-494d-91c5-679bb05d5372: "owner"
+		d382ed98-6efc-49aa-8f71-3d38ceaa4b33: "ally"
+		4297f3bf-d4f4-4d9a-b74e-585d1bca8192: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "la perrada"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5985FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734679618661L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Diego505_\"}]}" }
+		{ from: "a619f863-40aa-494d-91c5-679bb05d5372", date: 1734679618688L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Snips_bv\"}]}" }
+		{ from: "a619f863-40aa-494d-91c5-679bb05d5372", date: 1734682193354L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sheylike\"}]}" }
+		{ from: "a619f863-40aa-494d-91c5-679bb05d5372", date: 1734682193356L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Myth_Pool\"}]}" }
+		{ from: "a619f863-40aa-494d-91c5-679bb05d5372", date: 1734682251197L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Snips_bv\"}]}" }
+		{ from: "a619f863-40aa-494d-91c5-679bb05d5372", date: 1734682254299L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Snips_bv\"}]}" }
+	]
+	extra: { }
+}

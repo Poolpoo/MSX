@@ -1,0 +1,17 @@
+{
+	id: "fee174de-f356-40cb-85b6-319be8e7591a"
+	type: "player"
+	player_name: "WK4nttz"
+	ranks: {
+		fee174de-f356-40cb-85b6-319be8e7591a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "WK4nttz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5C59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
