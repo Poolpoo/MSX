@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-23 07:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-12-23 06:45:46 +0000"
@@ -56,6 +62,12 @@
   "spelunkery:recipes/coal": {
     "criteria": {
       "has_item": "2024-12-23 07:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-23 07:56:11 +0000"
     },
     "done": true
   },

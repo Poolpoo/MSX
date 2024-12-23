@@ -15779,3 +15779,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 07:38:43.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement ['X' Marks the Spot]
 [23Dec2024 07:51:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [We do a little trolling...]
 [23Dec2024 07:51:51.829] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 07:56:11.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Sweet Dreams]
+[23Dec2024 07:59:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Suit Up]
+[23Dec2024 08:00:26.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lobito1234 lost connection: Disconnected
+[23Dec2024 08:00:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 left the game
+[23Dec2024 08:00:26.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lobito1234
+[23Dec2024 08:02:48.087] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
