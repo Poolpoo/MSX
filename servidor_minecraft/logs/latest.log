@@ -15976,3 +15976,4 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 09:00:47.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lech3Materna lost connection: Disconnected
 [23Dec2024 09:00:47.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna left the game
 [23Dec2024 09:00:47.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lech3Materna
+[23Dec2024 09:13:55.383] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
