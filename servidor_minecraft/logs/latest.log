@@ -15679,3 +15679,45 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 06:40:33.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
 [23Dec2024 06:40:33.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
 [23Dec2024 06:42:48.637] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:45:36.565] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lobito1234 is 902596b9-4038-4943-846c-b654827d6591
+[23Dec2024 06:45:45.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lobito1234[/172.26.163.88:53846] logged in with entity id 19461 at (-88.5, 82.0, 166.5)
+[23Dec2024 06:45:46.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23Dec2024 06:45:46.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 joined the game
+[23Dec2024 06:45:46.204] [Server thread/INFO] [Jade/]: Syncing config to Lobito1234 (902596b9-4038-4943-846c-b654827d6591)
+[23Dec2024 06:45:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Ice and Fire]
+[23Dec2024 06:45:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Integrated Dungeons and Structures]
+[23Dec2024 06:45:47.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lobito1234 (18)
+[23Dec2024 06:45:47.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lobito1234
+[23Dec2024 06:45:47.931] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23Dec2024 06:45:47.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23Dec2024 06:45:47.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23Dec2024 06:45:47.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23Dec2024 06:45:47.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23Dec2024 06:45:47.934] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23Dec2024 06:45:47.934] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23Dec2024 06:45:47.934] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23Dec2024 06:45:47.935] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23Dec2024 06:45:47.935] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23Dec2024 06:45:47.935] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23Dec2024 06:45:47.935] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23Dec2024 06:45:47.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23Dec2024 06:45:47.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23Dec2024 06:45:47.936] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23Dec2024 06:45:47.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23Dec2024 06:45:47.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23Dec2024 06:45:47.937] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[23Dec2024 06:45:58.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 902596b9-4038-4943-846c-b654827d6591
+[23Dec2024 06:45:59.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 902596b9-4038-4943-846c-b654827d6591
+[23Dec2024 06:45:59.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lobito1234 (902596b9-4038-4943-846c-b654827d6591) successfully connected to voice chat
+[23Dec2024 06:46:16.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-88, y=89, z=184}
+[23Dec2024 06:46:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Teleported Lobito1234 to Tyr_1]
+[23Dec2024 06:47:01.140] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:47:02.806] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:47:02.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Castle]
+[23Dec2024 06:47:02.995] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:48:37.245] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:51:01.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:51:32.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:52:47.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d382ed98-6efc-49aa-8f71-3d38ceaa4b33 timed out
+[23Dec2024 06:52:47.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sheylike
+[23Dec2024 06:52:47.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike

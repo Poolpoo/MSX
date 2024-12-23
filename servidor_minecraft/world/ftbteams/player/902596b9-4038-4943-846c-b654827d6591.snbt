@@ -1,0 +1,17 @@
+{
+	id: "902596b9-4038-4943-846c-b654827d6591"
+	type: "player"
+	player_name: "Lobito1234"
+	ranks: {
+		902596b9-4038-4943-846c-b654827d6591: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lobito1234"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
