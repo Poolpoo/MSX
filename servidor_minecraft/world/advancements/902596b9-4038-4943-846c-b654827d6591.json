@@ -1,4 +1,10 @@
 {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-23 07:38:43 +0000"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-23 06:45:46 +0000"
@@ -61,6 +67,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-23 07:41:29 +0000",
       "minecraft:zombie": "2024-12-23 07:28:18 +0000"
     },
     "done": false
@@ -107,6 +114,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-23 07:38:43 +0000"
+    },
+    "done": false
+  },
   "spelunkery:spelunkery/rough_gem": {
     "criteria": {
       "item": "2024-12-23 07:32:00 +0000"
@@ -150,6 +163,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-23 07:42:46 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/stick": {
     "criteria": {
       "has_item": "2024-12-23 07:28:33 +0000"
@@ -172,6 +191,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-23 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-23 07:38:53 +0000"
     },
     "done": true
   },
