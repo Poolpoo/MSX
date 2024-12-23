@@ -15728,3 +15728,40 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 06:55:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 left the game
 [23Dec2024 06:55:18.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tyr_1
 [23Dec2024 07:01:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Hunt and Gather]
+[23Dec2024 07:05:57.082] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 07:06:00.985] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[23Dec2024 07:06:00.989] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[23Dec2024 07:06:24.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 was impaled by Marauder
+[23Dec2024 07:06:25.800] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Dec2024 07:06:25.813] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 07:09:17.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Stone Age]
+[23Dec2024 07:10:13.342] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Tyr_1 is 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 07:10:22.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tyr_1[/172.26.23.104:60626] logged in with entity id 25212 at (-507.91128146877315, 82.0, 858.8788894072175)
+[23Dec2024 07:10:22.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23Dec2024 07:10:22.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 joined the game
+[23Dec2024 07:10:22.757] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 07:10:22.863] [Server thread/INFO] [Jade/]: Syncing config to Tyr_1 (839e0a91-71d8-4c64-a0fa-671aae4d798f)
+[23Dec2024 07:10:25.493] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tyr_1 (18)
+[23Dec2024 07:10:25.494] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tyr_1
+[23Dec2024 07:10:25.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23Dec2024 07:10:25.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23Dec2024 07:10:25.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23Dec2024 07:10:25.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23Dec2024 07:10:25.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23Dec2024 07:10:25.497] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23Dec2024 07:10:25.497] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23Dec2024 07:10:25.497] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23Dec2024 07:10:25.497] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23Dec2024 07:10:25.497] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[23Dec2024 07:10:34.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 07:10:35.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 07:10:35.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tyr_1 (839e0a91-71d8-4c64-a0fa-671aae4d798f) successfully connected to voice chat
+[23Dec2024 07:14:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Getting an Upgrade]
