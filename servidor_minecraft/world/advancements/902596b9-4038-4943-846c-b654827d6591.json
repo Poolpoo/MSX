@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-23 07:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-23 07:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-23 07:09:17 +0000"
@@ -23,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-23 07:20:28 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/coal": {
     "criteria": {
       "has_item": "2024-12-23 07:09:00 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-23 07:16:28 +0000"
     },
     "done": true
   },
@@ -38,6 +62,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-23 06:45:46 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_iron": {
+    "criteria": {
+      "has_item": "2024-12-23 07:17:46 +0000"
     },
     "done": true
   },
@@ -84,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-23 07:14:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "grassland": "2024-12-23 06:46:57 +0000",
@@ -121,9 +157,21 @@
     },
     "done": false
   },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-23 07:19:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-23 06:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-23 07:23:46 +0000"
     },
     "done": true
   },
