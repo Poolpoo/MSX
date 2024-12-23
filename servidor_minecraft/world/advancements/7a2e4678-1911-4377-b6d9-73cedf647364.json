@@ -1906,5 +1906,17 @@
     },
     "done": true
   },
+  "spelunkery:recipes/cinnabar": {
+    "criteria": {
+      "has_item": "2024-12-23 06:09:12 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/grindstone": {
+    "criteria": {
+      "item": "2024-12-23 06:08:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

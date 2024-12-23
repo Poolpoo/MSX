@@ -15587,3 +15587,4 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 05:52:51.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 05:57:32.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 05:57:50.687] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 06:08:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Always on the Grind]
