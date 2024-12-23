@@ -15901,3 +15901,40 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 08:12:22.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 08:14:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lech3Materna> ya
 [23Dec2024 08:14:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Tyr_1> tya
+[23Dec2024 08:19:48.605] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:20:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Mine? Mine? Mine?]
+[23Dec2024 08:21:00.443] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:21:30.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tyr_1 lost connection: Disconnected
+[23Dec2024 08:21:30.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 left the game
+[23Dec2024 08:21:30.842] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tyr_1
+[23Dec2024 08:24:50.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:25:53.375] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Tyr_1 is 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 08:25:54.983] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:26:02.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tyr_1[/172.26.23.104:51093] logged in with entity id 47360 at (-498.5695305065803, 76.0, 853.5391054888569)
+[23Dec2024 08:26:02.789] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23Dec2024 08:26:02.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 joined the game
+[23Dec2024 08:26:02.846] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:26:02.947] [Server thread/INFO] [Jade/]: Syncing config to Tyr_1 (839e0a91-71d8-4c64-a0fa-671aae4d798f)
+[23Dec2024 08:26:05.788] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tyr_1 (18)
+[23Dec2024 08:26:05.788] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tyr_1
+[23Dec2024 08:26:05.788] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23Dec2024 08:26:05.788] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23Dec2024 08:26:05.789] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23Dec2024 08:26:05.789] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23Dec2024 08:26:05.789] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23Dec2024 08:26:05.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23Dec2024 08:26:05.791] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23Dec2024 08:26:05.791] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23Dec2024 08:26:05.791] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23Dec2024 08:26:05.791] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[23Dec2024 08:26:17.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 08:26:18.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 839e0a91-71d8-4c64-a0fa-671aae4d798f
+[23Dec2024 08:26:18.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tyr_1 (839e0a91-71d8-4c64-a0fa-671aae4d798f) successfully connected to voice chat

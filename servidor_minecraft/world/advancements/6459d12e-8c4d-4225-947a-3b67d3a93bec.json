@@ -107,8 +107,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-23 08:21:21 +0000",
       "honey_bottle": "2024-12-18 08:00:43 +0000",
       "cooked_beef": "2024-12-18 06:11:42 +0000",
+      "baked_potato": "2024-12-23 08:18:06 +0000",
       "mutton": "2024-12-18 05:25:22 +0000",
       "cooked_mutton": "2024-12-18 07:30:26 +0000",
       "bread": "2024-12-18 05:21:06 +0000",
@@ -122,6 +124,7 @@
       "rocky_meadow": "2024-12-18 05:21:21 +0000",
       "outback": "2024-12-18 08:23:05 +0000",
       "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "bamboo_forest": "2024-12-23 08:20:12 +0000",
       "grassland": "2024-12-18 07:50:20 +0000",
       "prairie": "2024-12-18 05:21:17 +0000",
       "redwoods": "2024-12-18 08:22:11 +0000"
@@ -133,6 +136,7 @@
       "rocky_meadow": "2024-12-18 05:21:21 +0000",
       "outback": "2024-12-18 08:23:05 +0000",
       "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "bamboo_forest": "2024-12-23 08:20:12 +0000",
       "grassland": "2024-12-18 07:50:20 +0000",
       "prairie": "2024-12-18 05:21:17 +0000",
       "redwoods": "2024-12-18 08:22:11 +0000"
@@ -422,6 +426,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-18 08:29:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-23 08:20:51 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/charcoal_lump": {
+    "criteria": {
+      "has_item": "2024-12-23 08:16:17 +0000"
     },
     "done": true
   },
