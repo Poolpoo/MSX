@@ -15961,3 +15961,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 08:33:41.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tyr_1 lost connection: Disconnected
 [23Dec2024 08:33:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyr_1 left the game
 [23Dec2024 08:33:41.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tyr_1
+[23Dec2024 08:36:41.131] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:37:48.187] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:37:55.490] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:38:44.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [Arachnophobe's Nightmare]
+[23Dec2024 08:40:18.935] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 08:45:57.780] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
