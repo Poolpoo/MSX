@@ -15978,3 +15978,31 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 09:00:47.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lech3Materna
 [23Dec2024 09:13:55.383] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 09:19:27.931] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:29:08.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:29:21.490] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:29:28.889] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:30:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Secrets of Enchanting]
+[23Dec2024 09:31:31.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:31:45.089] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:31:55.242] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:32:23.894] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:32:33.435] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:32:59.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:33:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:33:40.790] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
+[23Dec2024 09:33:43.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[23Dec2024 09:33:43.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[23Dec2024 09:33:43.523] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[23Dec2024 09:33:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Dec2024 09:33:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 09:33:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 09:33:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 09:33:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2024 09:33:57.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Dec2024 09:33:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Dec2024 09:33:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 09:33:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 09:33:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 09:33:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Dec2024 09:33:57.891] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23Dec2024 09:33:57.892] [Server thread/INFO] [Framework/]: Finished unloading server configs
