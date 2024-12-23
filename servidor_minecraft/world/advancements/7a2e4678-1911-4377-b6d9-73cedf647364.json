@@ -1957,5 +1957,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-23 23:22:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
