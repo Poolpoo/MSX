@@ -1908,6 +1908,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/grindstone": {
+    "criteria": {
+      "item": "2024-12-23 06:08:02 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/cinnabar": {
     "criteria": {
       "has_item": "2024-12-23 06:09:12 +0000"
@@ -1917,12 +1923,6 @@
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2024-12-23 08:38:44 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:spelunkery/grindstone": {
-    "criteria": {
-      "item": "2024-12-23 06:08:02 +0000"
     },
     "done": true
   },
