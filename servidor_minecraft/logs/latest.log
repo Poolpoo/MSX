@@ -15772,3 +15772,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [23Dec2024 07:22:38.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Zombie Arm'/1616, l='ServerLevel[world]', x=-497.78, y=76.00, z=805.24, removed=DISCARDED]
 [23Dec2024 07:23:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Not Today, Thank You]
 [23Dec2024 07:24:06.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Isn't It Iron Pick]
+[23Dec2024 07:27:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Well... That leads to dust]
+[23Dec2024 07:28:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [Monster Hunter]
+[23Dec2024 07:32:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [A Diamond in the Rough]
+[23Dec2024 07:32:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lobito1234 has made the advancement [That's Rough, Buddy]
