@@ -219,9 +219,11 @@
     "criteria": {
       "minecraft:pillager": "2024-12-18 08:34:47 +0000",
       "minecraft:skeleton": "2024-12-15 09:00:04 +0000",
+      "minecraft:magma_cube": "2024-12-24 10:23:36 +0000",
       "minecraft:spider": "2024-12-18 20:26:08 +0000",
       "minecraft:creeper": "2024-12-18 08:48:29 +0000",
       "minecraft:slime": "2024-12-18 22:04:56 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 10:29:22 +0000",
       "minecraft:husk": "2024-12-20 20:57:46 +0000",
       "quark:wraith": "2024-12-24 10:20:13 +0000",
       "minecraft:zombie": "2024-12-15 09:00:32 +0000",
@@ -995,6 +997,18 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_diamond": {
+    "criteria": {
+      "cincinnasite_diamond": "2024-12-24 10:25:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2024-12-24 10:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-24 10:20:25 +0000",
@@ -1044,11 +1058,29 @@
     },
     "done": true
   },
+  "spelunkery:recipes/quartz": {
+    "criteria": {
+      "has_item": "2024-12-24 10:23:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2024-12-24 10:25:32 +0000"
+    },
+    "done": false
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2024-12-24 10:06:02 +0000"
     },
     "done": true
+  },
+  "betternether:cincinnasite_gear": {
+    "criteria": {
+      "cincinnasite_EquipmentSlot[name\u003dboots, category\u003dCOMBAT]": "2024-12-24 10:28:56 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1062,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 10:29:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2024-12-24 10:19:30 +0000"
@@ -1071,6 +1109,12 @@
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2024-12-24 10:19:37 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-24 10:25:06 +0000"
     },
     "done": true
   },
