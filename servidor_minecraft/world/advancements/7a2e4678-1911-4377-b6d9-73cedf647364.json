@@ -1975,5 +1975,17 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-24 07:17:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-12-24 07:15:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

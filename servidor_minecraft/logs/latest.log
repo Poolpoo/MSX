@@ -15353,3 +15353,5 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 06:15:48.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
 [24Dec2024 06:16:27.591] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
 [24Dec2024 06:16:27.594] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[24Dec2024 07:15:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Eterna, Quanta, Arcana]
+[24Dec2024 07:17:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Local Librarian]
