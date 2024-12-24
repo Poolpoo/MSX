@@ -988,5 +988,11 @@
     },
     "done": true
   },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2024-12-24 09:26:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
