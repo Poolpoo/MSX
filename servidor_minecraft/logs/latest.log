@@ -15520,3 +15520,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 21:38:21.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7a2e4678-1911-4377-b6d9-73cedf647364
 [24Dec2024 21:38:22.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
 [24Dec2024 21:38:22.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
+[24Dec2024 21:52:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Diamond is Unbreakable]
+[24Dec2024 21:58:53.610] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[24Dec2024 21:58:53.620] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
