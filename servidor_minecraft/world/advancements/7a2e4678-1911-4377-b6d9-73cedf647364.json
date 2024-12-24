@@ -1977,89 +1977,9 @@
     },
     "done": true
   },
-  "betternether:all_the_biomes": {
-    "criteria": {
-      "betternether:nether_swampland": "2024-12-24 11:08:56 +0000",
-      "betternether:magma_land": "2024-12-24 11:07:44 +0000"
-    },
-    "done": false
-  },
-  "betternether:cincinnasite_ore": {
-    "criteria": {
-      "cincinnasite_ore": "2024-12-24 10:23:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-24 10:20:26 +0000",
-      "minecraft:soul_sand_valley": "2024-12-24 10:19:12 +0000"
-    },
-    "done": false
-  },
-  "netherexp:nether/non_renewable_yeah_right": {
-    "criteria": {
-      "killed_entity": "2024-12-24 10:19:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed": "2024-12-24 10:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-24 10:19:06 +0000"
-    },
-    "done": true
-  },
   "spelunkery:recipes/cinnabar_block": {
     "criteria": {
       "has_item": "2024-12-24 06:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-24 10:31:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:eternal_expedition": {
-    "criteria": {
-      "blackstone_basin": "2024-12-24 10:43:02 +0000"
-    },
-    "done": false
-  },
-  "betternether:flaming_ruby": {
-    "criteria": {
-      "flaming_ruby": "2024-12-24 10:27:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:light_snack": {
-    "criteria": {
-      "earlight": "2024-12-24 10:51:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2024-12-24 10:19:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2024-12-24 07:17:02 +0000"
-    },
-    "done": true
-  },
-  "rubinated_nether:custom/obtain_ruby": {
-    "criteria": {
-      "obtain_ruby": "2024-12-24 10:29:05 +0000"
     },
     "done": true
   },
@@ -2069,9 +1989,15 @@
     },
     "done": true
   },
-  "endrem:main/nether_eye": {
+  "apotheosis:enchanting/bookshelf": {
     "criteria": {
-      "nether_eye": "2024-12-24 10:27:05 +0000"
+      "bookshelf": "2024-12-24 07:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-24 10:19:06 +0000"
     },
     "done": true
   },
@@ -2087,9 +2013,16 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_ham": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "ham": "2024-12-24 11:03:40 +0000"
+      "minecraft:nether_wastes": "2024-12-24 10:20:26 +0000",
+      "minecraft:soul_sand_valley": "2024-12-24 10:19:12 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2024-12-24 10:19:12 +0000"
     },
     "done": true
   },
@@ -2099,21 +2032,75 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-24 10:19:52 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2024-12-24 10:19:52 +0000"
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "loot_bastion_hoglin_stable": "2024-12-24 11:03:35 +0000"
+      "in_better_fortress": "2024-12-24 10:22:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2024-12-24 10:23:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-24 10:27:05 +0000"
     },
     "done": true
   },
   "endrem:main/root": {
     "criteria": {
       "nether_eye": "2024-12-24 10:27:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2024-12-24 10:27:09 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:custom/obtain_ruby": {
+    "criteria": {
+      "obtain_ruby": "2024-12-24 10:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 10:31:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2024-12-24 10:43:02 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-12-24 10:48:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2024-12-24 10:51:10 +0000"
     },
     "done": true
   },
@@ -2135,11 +2122,24 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "in_better_fortress": "2024-12-24 10:22:33 +0000"
+      "loot_bastion_hoglin_stable": "2024-12-24 11:03:35 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-24 11:03:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_swampland": "2024-12-24 11:08:56 +0000",
+      "betternether:magma_land": "2024-12-24 11:07:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
