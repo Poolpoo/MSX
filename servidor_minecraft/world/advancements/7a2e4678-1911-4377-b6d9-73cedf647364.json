@@ -491,6 +491,7 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
+      "brown_mushroom": "2024-12-24 22:48:10 +0000",
       "red_mushroom": "2024-12-15 09:30:20 +0000",
       "inkcap_mushroom": "2024-12-15 10:43:10 +0000"
     },
