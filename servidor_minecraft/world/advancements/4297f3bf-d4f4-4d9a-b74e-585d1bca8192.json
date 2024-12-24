@@ -405,10 +405,13 @@
       "minecraft:ravager": "2024-12-18 08:33:29 +0000",
       "minecraft:vindicator": "2024-12-18 08:27:42 +0000",
       "minecraft:spider": "2024-12-15 10:17:02 +0000",
+      "minecraft:piglin_brute": "2024-12-24 10:56:42 +0000",
       "minecraft:creeper": "2024-12-15 10:24:22 +0000",
       "minecraft:slime": "2024-12-15 10:34:28 +0000",
+      "minecraft:zombified_piglin": "2024-12-24 10:58:05 +0000",
       "minecraft:witch": "2024-12-15 10:29:56 +0000",
       "minecraft:wither_skeleton": "2024-12-24 10:23:32 +0000",
+      "minecraft:piglin": "2024-12-24 10:58:07 +0000",
       "minecraft:zombie": "2024-12-15 09:00:48 +0000",
       "minecraft:zombie_villager": "2024-12-18 08:10:34 +0000"
     },
@@ -1476,9 +1479,27 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-24 10:56:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-12-24 10:01:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-12-24 10:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-24 10:56:25 +0000"
     },
     "done": true
   },
