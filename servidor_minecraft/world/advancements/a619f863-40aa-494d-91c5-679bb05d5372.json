@@ -223,6 +223,7 @@
       "minecraft:creeper": "2024-12-18 08:48:29 +0000",
       "minecraft:slime": "2024-12-18 22:04:56 +0000",
       "minecraft:husk": "2024-12-20 20:57:46 +0000",
+      "quark:wraith": "2024-12-24 10:20:13 +0000",
       "minecraft:zombie": "2024-12-15 09:00:32 +0000",
       "minecraft:zombie_villager": "2024-12-18 21:02:33 +0000"
     },
@@ -994,6 +995,25 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-24 10:20:25 +0000",
+      "minecraft:soul_sand_valley": "2024-12-24 10:19:12 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-24 10:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-24 10:19:12 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2024-12-24 10:06:02 +0000"
@@ -1018,9 +1038,45 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2024-12-24 10:19:12 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2024-12-24 10:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-24 10:19:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-24 10:19:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2024-12-24 10:19:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2024-12-24 10:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-24 10:22:35 +0000"
     },
     "done": true
   },
