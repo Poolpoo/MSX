@@ -1284,6 +1284,12 @@
     },
     "done": true
   },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2024-12-24 09:03:59 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/glowstick": {
     "criteria": {
       "item": "2024-12-24 08:24:25 +0000"
