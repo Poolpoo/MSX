@@ -15616,3 +15616,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 23:21:20.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
 [24Dec2024 23:26:50.629] [Server thread/WARN] [net.minecraft.network.chat.SignedMessageChain/]: Received expired chat: 'habia encontrado a tu caballo'. Is the client/server system time unsynchronized?
 [24Dec2024 23:26:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Myth_Pool> habia encontrado a tu caballo
+[24Dec2024 23:41:29.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was slain by Nightmare Stalker
+[24Dec2024 23:41:34.481] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Dec2024 23:44:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike tried to swim in lava
+[24Dec2024 23:44:19.990] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Dec2024 23:49:12.258] [Worker-Main-2/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[24Dec2024 23:49:12.265] [Worker-Main-2/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
