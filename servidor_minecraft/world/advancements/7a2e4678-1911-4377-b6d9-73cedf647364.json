@@ -2141,5 +2141,11 @@
     },
     "done": false
   },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2024-12-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

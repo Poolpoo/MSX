@@ -15488,3 +15488,35 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 21:24:07.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
 [24Dec2024 21:24:07.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
 [24Dec2024 21:24:17.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8534ms or 170 ticks behind
+[24Dec2024 21:35:33.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Red Nether]
+[24Dec2024 21:37:56.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Internal Exception: java.util.NoSuchElementException: No value present
+[24Dec2024 21:37:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[24Dec2024 21:37:56.317] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[24Dec2024 21:38:01.336] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Myth_Pool is 7a2e4678-1911-4377-b6d9-73cedf647364
+[24Dec2024 21:38:10.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Myth_Pool[/172.26.7.165:53340] logged in with entity id 2418 at (-600.5361709762328, 82.0, 868.4240892305284)
+[24Dec2024 21:38:10.840] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Dec2024 21:38:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool joined the game
+[24Dec2024 21:38:11.269] [Server thread/INFO] [Jade/]: Syncing config to Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364)
+[24Dec2024 21:38:12.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Myth_Pool (18)
+[24Dec2024 21:38:12.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Myth_Pool
+[24Dec2024 21:38:12.832] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24Dec2024 21:38:12.832] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24Dec2024 21:38:12.833] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[24Dec2024 21:38:12.834] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24Dec2024 21:38:12.834] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[24Dec2024 21:38:12.834] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[24Dec2024 21:38:12.834] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[24Dec2024 21:38:12.835] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[24Dec2024 21:38:12.835] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[24Dec2024 21:38:12.835] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[24Dec2024 21:38:12.835] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24Dec2024 21:38:12.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24Dec2024 21:38:12.837] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[24Dec2024 21:38:21.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7a2e4678-1911-4377-b6d9-73cedf647364
+[24Dec2024 21:38:22.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
+[24Dec2024 21:38:22.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
