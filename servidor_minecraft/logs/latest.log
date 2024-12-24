@@ -15525,3 +15525,92 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 21:58:53.620] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
 [24Dec2024 22:26:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [A Magical Workbench]
 [24Dec2024 22:26:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Alloy Inert to Magic]
+[24Dec2024 23:20:31.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e3bfe88[id=<null>,name=Sheylike,properties={},legacy=false] (/172.26.179.8:52995) lost connection: Disconnected
+[24Dec2024 23:20:58.704] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[24Dec2024 23:21:08.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:lucernia_sapling removed now.
+[24Dec2024 23:21:08.124] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:lacugrove_sapling removed now.
+[24Dec2024 23:21:08.124] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: eidolon:illwood_sapling removed now.
+[24Dec2024 23:21:08.125] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:ancient_sapling removed now.
+[24Dec2024 23:21:08.126] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:blue_blossom_sapling removed now.
+[24Dec2024 23:21:08.127] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:green_archwood_sapling removed now.
+[24Dec2024 23:21:08.128] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:pythadendron_sapling removed now.
+[24Dec2024 23:21:08.128] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:red_blossom_sapling removed now.
+[24Dec2024 23:21:08.129] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:orange_blossom_sapling removed now.
+[24Dec2024 23:21:08.130] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:rubeus_sapling removed now.
+[24Dec2024 23:21:08.132] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:tenanea_sapling removed now.
+[24Dec2024 23:21:08.133] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:swamp_cypress_sapling removed now.
+[24Dec2024 23:21:08.133] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: upgrade_aquatic:river_sapling removed now.
+[24Dec2024 23:21:08.133] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexscaves:ancient_sapling removed now.
+[24Dec2024 23:21:08.135] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: hexerei:mahogany_sapling removed now.
+[24Dec2024 23:21:08.136] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:blue_archwood_sapling removed now.
+[24Dec2024 23:21:08.136] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:lavender_blossom_sapling removed now.
+[24Dec2024 23:21:08.136] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: autumnity:yellow_maple_sapling removed now.
+[24Dec2024 23:21:08.137] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_elemental:yellow_archwood_sapling removed now.
+[24Dec2024 23:21:08.137] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:red_archwood_sapling removed now.
+[24Dec2024 23:21:08.139] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:dragon_tree_sapling removed now.
+[24Dec2024 23:21:08.140] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: snifferplus:stone_pine_sapling removed now.
+[24Dec2024 23:21:08.140] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:purple_archwood_sapling removed now.
+[24Dec2024 23:21:08.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:blighted_balsa_sapling removed now.
+[24Dec2024 23:21:08.141] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:ancient_oak_sapling removed now.
+[24Dec2024 23:21:08.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: hexerei:witch_hazel_sapling removed now.
+[24Dec2024 23:21:08.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:anchor_tree_sapling removed now.
+[24Dec2024 23:21:08.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:nether_sakura_sapling removed now.
+[24Dec2024 23:21:08.143] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: forbidden_arcanus:aurum_sapling removed now.
+[24Dec2024 23:21:08.143] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:yellow_blossom_sapling removed now.
+[24Dec2024 23:21:08.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:lucernia_sapling removed now.
+[24Dec2024 23:21:08.144] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:lacugrove_sapling removed now.
+[24Dec2024 23:21:08.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: eidolon:illwood_sapling removed now.
+[24Dec2024 23:21:08.145] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:ancient_sapling removed now.
+[24Dec2024 23:21:08.146] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:blue_blossom_sapling removed now.
+[24Dec2024 23:21:08.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:green_archwood_sapling removed now.
+[24Dec2024 23:21:08.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:pythadendron_sapling removed now.
+[24Dec2024 23:21:08.148] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:red_blossom_sapling removed now.
+[24Dec2024 23:21:08.149] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:orange_blossom_sapling removed now.
+[24Dec2024 23:21:08.150] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:rubeus_sapling removed now.
+[24Dec2024 23:21:08.152] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:tenanea_sapling removed now.
+[24Dec2024 23:21:08.153] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:swamp_cypress_sapling removed now.
+[24Dec2024 23:21:08.153] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: upgrade_aquatic:river_sapling removed now.
+[24Dec2024 23:21:08.153] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexscaves:ancient_sapling removed now.
+[24Dec2024 23:21:08.154] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: hexerei:mahogany_sapling removed now.
+[24Dec2024 23:21:08.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:blue_archwood_sapling removed now.
+[24Dec2024 23:21:08.155] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:lavender_blossom_sapling removed now.
+[24Dec2024 23:21:08.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: autumnity:yellow_maple_sapling removed now.
+[24Dec2024 23:21:08.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_elemental:yellow_archwood_sapling removed now.
+[24Dec2024 23:21:08.157] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:red_archwood_sapling removed now.
+[24Dec2024 23:21:08.158] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betterend:dragon_tree_sapling removed now.
+[24Dec2024 23:21:08.159] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: snifferplus:stone_pine_sapling removed now.
+[24Dec2024 23:21:08.159] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ars_nouveau:purple_archwood_sapling removed now.
+[24Dec2024 23:21:08.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:blighted_balsa_sapling removed now.
+[24Dec2024 23:21:08.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomemakeover:ancient_oak_sapling removed now.
+[24Dec2024 23:21:08.160] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: hexerei:witch_hazel_sapling removed now.
+[24Dec2024 23:21:08.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:anchor_tree_sapling removed now.
+[24Dec2024 23:21:08.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: betternether:nether_sakura_sapling removed now.
+[24Dec2024 23:21:08.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: forbidden_arcanus:aurum_sapling removed now.
+[24Dec2024 23:21:08.161] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: quark:yellow_blossom_sapling removed now.
+[24Dec2024 23:21:08.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/172.26.179.8:53170] logged in with entity id 25437 at (-495.953216420837, 76.0, 863.9109137417144)
+[24Dec2024 23:21:08.261] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Dec2024 23:21:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[24Dec2024 23:21:08.473] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[24Dec2024 23:21:10.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[24Dec2024 23:21:10.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[24Dec2024 23:21:10.970] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24Dec2024 23:21:10.971] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24Dec2024 23:21:10.971] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[24Dec2024 23:21:10.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24Dec2024 23:21:10.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[24Dec2024 23:21:10.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[24Dec2024 23:21:10.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[24Dec2024 23:21:10.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24Dec2024 23:21:10.973] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24Dec2024 23:21:10.974] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24Dec2024 23:21:10.974] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24Dec2024 23:21:10.974] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24Dec2024 23:21:10.974] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[24Dec2024 23:21:19.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[24Dec2024 23:21:20.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[24Dec2024 23:21:20.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
