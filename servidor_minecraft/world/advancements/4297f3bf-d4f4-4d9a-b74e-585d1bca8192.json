@@ -242,6 +242,7 @@
       "joshua_desert": "2024-12-19 00:52:29 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
       "fungal_fen": "2024-12-19 01:22:08 +0000",
+      "blackstone_basin": "2024-12-24 10:43:49 +0000",
       "bamboo_forest": "2024-12-20 04:15:11 +0000",
       "saguaro_desert": "2024-12-19 00:55:19 +0000",
       "temperate_grove": "2024-12-18 07:36:31 +0000",
@@ -1409,9 +1410,21 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2024-12-24 10:43:49 +0000"
+    },
+    "done": false
+  },
   "betternether:ruby_tools": {
     "criteria": {
       "nether_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2024-12-24 10:27:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2024-12-24 10:50:29 +0000"
     },
     "done": true
   },

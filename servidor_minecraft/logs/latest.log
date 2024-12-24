@@ -15851,3 +15851,23 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 10:37:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Hot Stuff]
 [24Dec2024 10:45:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool fell from a high place
 [24Dec2024 10:45:22.481] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Dec2024 10:46:28.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Teleported Myth_Pool to Diego505_]
+[24Dec2024 10:47:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Fetch Me Their Souls!]
+[24Dec2024 10:48:00.215] [Server thread/INFO] [EMI/]: [EMI] Myth_Pool deleted 1 glowstone_dust
+[24Dec2024 10:48:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Fetch Me Their Souls!]
+[24Dec2024 10:48:42.383] [Server thread/INFO] [EMI/]: [EMI] Myth_Pool deleted 3 acacia_fence
+[24Dec2024 10:50:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Light Snack]
+[24Dec2024 10:50:44.590] [Server thread/INFO] [EMI/]: [EMI] Myth_Pool deleted 3 cobblestone
+[24Dec2024 10:51:10.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Light Snack]
+[24Dec2024 10:51:12.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Light Snack]
+[24Dec2024 10:52:11.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Phasmophobic]
+[24Dec2024 10:52:57.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=76, z=251} BlockPos{x=173, y=77, z=252}
+[24Dec2024 10:53:18.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:18.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:18.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:19.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:19.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:19.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=90, z=257} BlockPos{x=163, y=89, z=257}
+[24Dec2024 10:53:45.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=110, z=260} BlockPos{x=163, y=108, z=259}
+[24Dec2024 10:53:45.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=110, z=260} BlockPos{x=163, y=108, z=259}
+[24Dec2024 10:55:56.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=87, z=302} BlockPos{x=165, y=84, z=301}

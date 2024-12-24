@@ -97,6 +97,7 @@
       "joshua_desert": "2024-12-21 07:29:11 +0000",
       "sparse_redwoods": "2024-12-21 07:32:25 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
+      "blackstone_basin": "2024-12-24 10:43:02 +0000",
       "bamboo_forest": "2024-12-18 21:03:50 +0000",
       "saguaro_desert": "2024-12-21 07:29:07 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
@@ -1990,6 +1991,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-12-24 10:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-24 10:19:06 +0000"
@@ -2008,9 +2015,21 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2024-12-24 10:43:02 +0000"
+    },
+    "done": false
+  },
   "betternether:flaming_ruby": {
     "criteria": {
       "flaming_ruby": "2024-12-24 10:27:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2024-12-24 10:51:10 +0000"
     },
     "done": true
   },
@@ -2071,6 +2090,12 @@
   "endrem:main/root": {
     "criteria": {
       "nether_eye": "2024-12-24 10:27:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2024-12-24 10:52:11 +0000"
     },
     "done": true
   },
