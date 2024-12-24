@@ -910,51 +910,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2024-12-21 06:01:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_subterranodon": {
-    "criteria": {
-      "killed": "2024-12-21 06:48:29 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/rough_lazurite_shard": {
-    "criteria": {
-      "has_item": "2024-12-21 06:30:20 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2024-12-21 06:04:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-21 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2024-12-21 05:51:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2024-12-21 06:04:49 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/charcoal": {
-    "criteria": {
-      "has_item": "2024-12-21 06:01:50 +0000"
     },
     "done": true
   },
@@ -964,9 +922,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-21 05:51:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-21 06:01:27 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/charcoal": {
+    "criteria": {
+      "has_item": "2024-12-21 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-21 06:04:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-21 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-21 06:05:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-12-21 06:07:18 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 06:30:20 +0000"
     },
     "done": true
   },
@@ -976,9 +976,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
-      "killed_grottoceratops": "2024-12-21 06:05:54 +0000"
+      "killed": "2024-12-21 06:48:29 +0000"
     },
     "done": true
   },
