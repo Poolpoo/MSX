@@ -15848,3 +15848,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 10:29:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Spooky Scary Skeleton]
 [24Dec2024 10:30:07.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
 [24Dec2024 10:31:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Into Fire]
+[24Dec2024 10:37:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Hot Stuff]
+[24Dec2024 10:45:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool fell from a high place
+[24Dec2024 10:45:22.481] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
