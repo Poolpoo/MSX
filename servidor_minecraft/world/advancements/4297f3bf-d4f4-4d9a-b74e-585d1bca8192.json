@@ -1326,6 +1326,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2024-12-24 08:56:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2024-12-24 08:37:31 +0000"
