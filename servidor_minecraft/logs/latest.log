@@ -15710,3 +15710,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 09:50:00.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.257568187112156
 [24Dec2024 09:50:00.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.6529035454140057
 [24Dec2024 10:01:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has reached the goal [Senior Summoner]
+[24Dec2024 10:06:02.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Enchanter]
+[24Dec2024 10:06:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Eterna, Quanta, Arcana]
+[24Dec2024 10:06:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [The Basics]
+[24Dec2024 10:09:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Take Aim]
