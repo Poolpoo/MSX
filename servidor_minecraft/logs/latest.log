@@ -15894,3 +15894,36 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 11:11:53.116] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [24Dec2024 11:12:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Teleported Snips_bv to Myth_Pool]
 [24Dec2024 11:13:30.190] [Server thread/INFO] [EMI/]: [EMI] Diego505_ deleted 1 crossbow
+[24Dec2024 11:17:51.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:51.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=101, z=298} BlockPos{x=172, y=64, z=162}
+[24Dec2024 11:17:56.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=172, y=67, z=160} BlockPos{x=172, y=65, z=156}
+[24Dec2024 11:17:56.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=172, y=67, z=160} BlockPos{x=172, y=65, z=156}
+[24Dec2024 11:17:56.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=172, y=67, z=160} BlockPos{x=172, y=65, z=156}
+[24Dec2024 11:22:26.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
+[24Dec2024 11:22:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
+[24Dec2024 11:22:26.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[24Dec2024 11:22:37.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Spooky Scary Skeleton]
+[24Dec2024 11:24:14.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Snips_bv lost connection: Disconnected
+[24Dec2024 11:24:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv left the game
+[24Dec2024 11:24:14.397] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Snips_bv
+[24Dec2024 11:25:04.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[24Dec2024 11:25:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[24Dec2024 11:25:04.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[24Dec2024 11:25:17.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 11:25:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 11:25:17.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 11:25:17.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 11:25:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 11:25:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 11:25:18.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 11:25:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 11:25:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 11:25:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 11:25:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 11:25:18.176] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Dec2024 11:25:18.176] [Server thread/INFO] [Framework/]: Finished unloading server configs

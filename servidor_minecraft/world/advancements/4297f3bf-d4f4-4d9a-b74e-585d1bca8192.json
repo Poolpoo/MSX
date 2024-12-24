@@ -1480,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 11:22:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2024-12-24 10:19:31 +0000"
