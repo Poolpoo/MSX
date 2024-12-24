@@ -2154,9 +2154,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-24 22:46:03 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2024-12-24 22:05:10 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/tangle_roots": {
+    "criteria": {
+      "has_item": "2024-12-24 22:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-24 22:46:03 +0000"
     },
     "done": true
   },
