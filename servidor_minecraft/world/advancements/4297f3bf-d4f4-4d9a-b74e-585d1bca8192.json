@@ -1220,6 +1220,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "steak_and_potatoes": "2024-12-24 10:01:18 +0000",
       "beef_stew": "2024-12-20 05:25:46 +0000"
     },
     "done": false
@@ -1360,6 +1361,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-24 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-24 10:01:18 +0000"
     },
     "done": true
   },
