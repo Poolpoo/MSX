@@ -15523,3 +15523,5 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 21:52:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Diamond is Unbreakable]
 [24Dec2024 21:58:53.610] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
 [24Dec2024 21:58:53.620] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[24Dec2024 22:26:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [A Magical Workbench]
+[24Dec2024 22:26:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Alloy Inert to Magic]
