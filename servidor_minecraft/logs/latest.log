@@ -15890,3 +15890,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [24Dec2024 10:59:27.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has reached the goal [EMF-Raider]
 [24Dec2024 11:03:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [War Pigs]
 [24Dec2024 11:03:37.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [War Pigs]
+[24Dec2024 11:11:50.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv fell from a high place
+[24Dec2024 11:11:53.116] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Dec2024 11:12:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Teleported Snips_bv to Myth_Pool]
+[24Dec2024 11:13:30.190] [Server thread/INFO] [EMI/]: [EMI] Diego505_ deleted 1 crossbow

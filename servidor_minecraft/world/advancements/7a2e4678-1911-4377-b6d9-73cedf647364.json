@@ -403,6 +403,8 @@
       "minecraft:blaze": "2024-12-24 10:25:53 +0000",
       "minecraft:skeleton": "2024-12-15 09:00:57 +0000",
       "minecraft:zoglin": "2024-12-21 01:59:28 +0000",
+      "minecraft:ghast": "2024-12-24 11:09:33 +0000",
+      "minecraft:hoglin": "2024-12-24 11:03:20 +0000",
       "minecraft:vindicator": "2024-12-15 10:55:51 +0000",
       "minecraft:magma_cube": "2024-12-22 22:17:37 +0000",
       "minecraft:spider": "2024-12-15 09:00:48 +0000",
@@ -1975,6 +1977,13 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_swampland": "2024-12-24 11:08:56 +0000",
+      "betternether:magma_land": "2024-12-24 11:07:44 +0000"
+    },
+    "done": false
+  },
   "betternether:cincinnasite_ore": {
     "criteria": {
       "cincinnasite_ore": "2024-12-24 10:23:10 +0000"
@@ -2078,6 +2087,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-24 11:03:40 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2024-12-24 10:19:17 +0000"
@@ -2087,6 +2102,12 @@
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2024-12-24 10:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2024-12-24 11:03:35 +0000"
     },
     "done": true
   },

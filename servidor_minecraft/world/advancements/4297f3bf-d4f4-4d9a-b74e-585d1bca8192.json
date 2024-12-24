@@ -403,6 +403,7 @@
       "minecraft:skeleton": "2024-12-15 08:59:47 +0000",
       "minecraft:zoglin": "2024-12-20 05:39:56 +0000",
       "minecraft:ravager": "2024-12-18 08:33:29 +0000",
+      "minecraft:hoglin": "2024-12-24 11:03:07 +0000",
       "minecraft:vindicator": "2024-12-18 08:27:42 +0000",
       "minecraft:spider": "2024-12-15 10:17:02 +0000",
       "minecraft:piglin_brute": "2024-12-24 10:56:42 +0000",
@@ -1364,6 +1365,12 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:magma_land": "2024-12-24 11:07:36 +0000"
+    },
+    "done": false
+  },
   "betternether:cincinnasite_ore": {
     "criteria": {
       "cincinnasite_ore": "2024-12-24 10:25:24 +0000"
@@ -1434,6 +1441,12 @@
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2024-12-24 10:19:20 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/quartz": {
+    "criteria": {
+      "has_item": "2024-12-24 11:10:55 +0000"
     },
     "done": true
   },
