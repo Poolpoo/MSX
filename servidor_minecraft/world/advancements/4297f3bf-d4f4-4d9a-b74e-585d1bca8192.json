@@ -905,6 +905,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2024-12-24 09:45:00 +0000",
       "charm_collector_3": "2024-12-18 08:17:25 +0000"
     },
     "done": false
@@ -1350,9 +1351,21 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-24 09:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-24 09:41:41 +0000"
+    },
+    "done": true
+  },
+  "oreganized:story/like_the_romans": {
+    "criteria": {
+      "has_brain_damage": "2024-12-24 09:45:28 +0000"
     },
     "done": true
   },
